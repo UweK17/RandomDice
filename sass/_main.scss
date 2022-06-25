@@ -6,9 +6,15 @@
     text-align: center;
 }
 
+.zweiW4 {
+    display: flex;
+    flex-direction: column;
+}
+
 .dice {
-    text-align: center;
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin: 10px;
 }
 
